@@ -1,1 +1,9 @@
 
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.edmonnitiema.twa",
+        "sha256_cert_fingerprints": ["25:8C:AB:21:21:31:8F:42:E2:62:4B:E6:4E:E4:0A:62:C8:37:CD:AF:71:A7:4F:90:AB:82:C0:9A:50:05:A4:42"]
+      }
+    }]
